@@ -203,7 +203,7 @@ import Waveform from '../components/Waveform.vue'
 const spinning = ref(false)
 const activeTrack = ref(null)
 
-const genres = ['Lo-Fi', 'Indie', 'Jazz', 'Hip-Hop', 'Electronic', 'OPM']
+const genres = ['Romance', 'Rock', 'Jazz', 'Hip-Hop', 'Electronic', 'OPM']
 
 const tracks = [
   { title: 'Frontend Development', skills: ['Vue.js', 'HTML5', 'CSS3', 'JavaScript'], level: 85, color: '', hex: '#e8ff00' },
