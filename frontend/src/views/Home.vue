@@ -18,8 +18,8 @@
       <div class="hero-text">
         <div class="hero-tag">// FULL STACK DEVELOPER + MUSIC ENTHUSIAST</div>
         <h1 class="hero-name">
-          <span class="line1">YOUR</span>
-          <span class="line2">NAME<span class="cursor-blink">_</span></span>
+          <span class="line1">DYLAN</span>
+          <span class="line2">VILLANUEVA<span class="cursor-blink">_</span></span>
         </h1>
         <p class="hero-bio">
           I write code the way musicians write songs —<br>
@@ -57,12 +57,12 @@
           </div>
           <div class="about-right">
             <p class="about-p">
-              Hey, I'm <strong class="hl">Your Name</strong> — a Web Programming student and music lover
+              Hey, I'm <strong class="hl">DYLAN VILLANUEVA</strong> — a Web Programming student and music lover
               based in the Philippines. I build web apps that are fast, functional, and feel good to use.
             </p>
             <p class="about-p">
               Just like music, good code has structure, flow, and a certain feel. Currently studying at
-              <strong class="hl">Your School Name</strong> and learning everything about the full stack.
+              <strong class="hl">ASIA PACIFIC COLLEGE</strong> and learning everything about the full stack.
             </p>
             <div class="stats-row">
               <div class="stat">
@@ -176,18 +176,18 @@
       <div class="container">
         <div class="footer-top">
           <div class="footer-brand">
-            <span class="footer-logo">YOUR NAME</span>
+            <span class="footer-logo">DYLAN D. VILLANUEVA</span>
             <span class="footer-sub">Full Stack Developer · Music Lover · Philippines</span>
           </div>
           <div class="footer-links">
-            <a href="https://github.com/yourusername" target="_blank">GitHub</a>
-            <a href="mailto:youremail@email.com">Email</a>
+            <a href="https://github.com/Code-with-dy" target="_blank">GitHub</a>
+            <a href="mailto:dyland.villanueva23456@gmail.com">Email</a>
             <a href="#hero">Back to Top ↑</a>
           </div>
         </div>
         <div class="footer-bottom">
           <Waveform :bars="40" />
-          <span class="footer-copy">© {{ new Date().getFullYear() }} Your Name · Vue.js + NestJS + Supabase · Vercel</span>
+          <span class="footer-copy">© {{ new Date().getFullYear() }} Dylan Villanueva · Vue.js + NestJS + Supabase · Vercel</span>
         </div>
       </div>
     </footer>
@@ -219,20 +219,20 @@ const projects = [
     icon: '🎵', year: '2026',
     gradient: 'linear-gradient(135deg, #1a1a2e, #16213e)',
     tags: ['Vue.js', 'NestJS', 'Supabase'],
-    github: 'https://github.com/yourusername/personal-website-finals',
+    github: 'https://github.com/Code-with-dy/personal-website-finals',
     live: '#'
   },
   {
-    title: 'Project Two',
-    desc: 'Describe your second project here. What does it do and what problem does it solve?',
+    title: 'Personal Profile App',
+    desc: 'This app is a project in one of my subject, which an app the contains my personal Information',
     icon: '🎸', year: '2025',
     gradient: 'linear-gradient(135deg, #1a0a0a, #2e1616)',
     tags: ['React', 'Node.js', 'MySQL'],
     github: '#', live: ''
   },
   {
-    title: 'Project Three',
-    desc: 'Another project goes here. Keep the description short and punchy.',
+    title: 'Arduino Project',
+    desc: 'This project if focuses on creating an Radar Motion Detection System that will detect an object nearby and distplay the distance of it ',
     icon: '🥁', year: '2025',
     gradient: 'linear-gradient(135deg, #0a1a0a, #162e16)',
     tags: ['Python', 'Flask', 'PostgreSQL'],
