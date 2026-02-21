@@ -7,7 +7,7 @@
         <div class="vinyl" :class="{ spinning }">
           <div class="vinyl-label">
             <span class="vinyl-title">NOW PLAYING</span>
-            <span class="vinyl-artist">YOUR NAME</span>
+            <span class="vinyl-artist">DYLAN VILLANUEVA</span>
           </div>
         </div>
         <button class="play-btn" @click="spinning = !spinning">
