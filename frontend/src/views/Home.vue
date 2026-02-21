@@ -31,7 +31,7 @@
         </div>
         <div class="now-playing">
           <Waveform :bars="18" />
-          <span class="np-text">currently vibing to: lo-fi beats & clean code</span>
+          <span class="np-text">currently vibing to: One Direction beats & clean code</span>
         </div>
       </div>
 
@@ -218,7 +218,7 @@ const projects = [
     desc: 'Music-themed portfolio with live guestbook, Vue.js frontend, NestJS API, and Supabase database.',
     icon: '🎵', year: '2026',
     gradient: 'linear-gradient(135deg, #1a1a2e, #16213e)',
-    tags: ['Vue.js', 'NestJS', 'Supabase'],
+    tags: ['Vue.js', 'NestJS', 'Supabase', 'Html', 'Css', 'Javascript'],
     github: 'https://github.com/Code-with-dy/personal-website-finals',
     live: '#'
   },
@@ -227,7 +227,7 @@ const projects = [
     desc: 'This app is a project in one of my subject, which an app the contains my personal Information',
     icon: '🎸', year: '2025',
     gradient: 'linear-gradient(135deg, #1a0a0a, #2e1616)',
-    tags: ['React', 'Node.js', 'MySQL'],
+    tags: ['Flutter', 'Supabase'],
     github: '#', live: ''
   },
   {
@@ -235,7 +235,7 @@ const projects = [
     desc: 'This project if focuses on creating an Radar Motion Detection System that will detect an object nearby and distplay the distance of it ',
     icon: '🥁', year: '2025',
     gradient: 'linear-gradient(135deg, #0a1a0a, #162e16)',
-    tags: ['Python', 'Flask', 'PostgreSQL'],
+    tags: ['Python', 'C++'],
     github: '#', live: ''
   }
 ]
