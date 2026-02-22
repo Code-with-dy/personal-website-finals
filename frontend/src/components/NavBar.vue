@@ -3,7 +3,7 @@
     <div class="nav-inner">
       <a href="#hero" class="logo">
         <span class="logo-icon">▶</span>
-        <span class="logo-text">YOUR NAME</span>
+        <span class="logo-text">DYLAN VILLANUEVA</span>
       </a>
       <div class="nav-links">
         <a href="#about">About</a>
