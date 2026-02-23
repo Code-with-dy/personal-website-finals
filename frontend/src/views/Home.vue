@@ -206,7 +206,7 @@ const activeTrack = ref(null)
 const genres = ['Romance', 'Rock', 'Jazz', 'Hip-Hop', 'Electronic', 'OPM']
 
 const tracks = [
-  { title: 'Frontend Development', skills: ['Vue.js', 'HTML5', 'CSS3', 'JavaScript'], level: 85, color: '', hex: '#e8ff00' },
+  { title: 'Frontend Development', skills: ['Vue.js', 'HTML', 'CSS', 'JavaScript'], level: 85, color: '', hex: '#e8ff00' },
   { title: 'Backend Engineering',  skills: ['NestJS', 'Node.js', 'Express', 'REST API'], level: 75, color: 'pink', hex: '#ff3d6b' },
   { title: 'Database & Cloud',     skills: ['Supabase', 'PostgreSQL', 'MySQL'], level: 70, color: 'blue', hex: '#00d4ff' },
   { title: 'DevOps & Deployment',  skills: ['Vercel', 'Render', 'Git', 'GitHub'], level: 72, color: '', hex: '#e8ff00' },
@@ -408,4 +408,5 @@ footer { padding: 3rem 1.5rem 2rem; border-top: 1px solid var(--border); backgro
 .footer-links a:hover { color: var(--neon); }
 .footer-bottom { display: flex; flex-direction: column; gap: 1rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
 .footer-copy { font-size: 0.68rem; color: var(--text-muted); }
+
 </style>
