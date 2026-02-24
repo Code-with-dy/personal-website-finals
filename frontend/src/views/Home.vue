@@ -241,7 +241,7 @@ const projects = [
 ]
 
 const stack = [
-  { title: 'Frontend', color: '#e8ff00', items: ['Vue.js 3', 'HTML5 / CSS3', 'JavaScript ES6+', 'Vite', 'Axios'] },
+  { title: 'Frontend', color: '#e8ff00', items: ['Vue.js ', 'HTML / CSS', 'JavaScript ES6+', 'Vite', 'Axios'] },
   { title: 'Backend',  color: '#ff3d6b', items: ['NestJS', 'Node.js', 'Express.js', 'REST APIs', 'Flask'] },
   { title: 'Database', color: '#00d4ff', items: ['Supabase', 'PostgreSQL', 'MySQL', 'Firebase'] },
   { title: 'Tools',    color: '#a78bfa', items: ['Git & GitHub', 'VS Code', 'Postman', 'Vercel', 'Render'] },
@@ -410,4 +410,5 @@ footer { padding: 3rem 1.5rem 2rem; border-top: 1px solid var(--border); backgro
 .footer-copy { font-size: 0.68rem; color: var(--text-muted); }
 
 </style>
+
 
